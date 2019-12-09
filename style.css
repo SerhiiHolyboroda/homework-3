@@ -1,0 +1,35 @@
+#block{
+    height: 350px;
+    width: 350px;
+    border: 4px solid black;
+    margin:0 auto;
+    background-color: purple;
+}
+#block0{
+    height: 350px;
+    width: 350px;
+     
+     
+}
+#block1{
+    height: 350px;
+    width: 350px;
+    border: 10px double gold;
+    margin:0 auto;
+    background-color: purple;
+}
+.text{
+    text-align: center;
+}
+#div1{
+   height: 350px;
+    width: 350px; 
+}
+#div2{
+   height: 350px;
+    width: 350px; 
+}
+#div3{
+   height: 350px;
+    width: 350px; 
+}
